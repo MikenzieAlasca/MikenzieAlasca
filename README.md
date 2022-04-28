@@ -41,3 +41,23 @@ I am a current computer science student at the University of Wyoming.<img src="h
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mikenzie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikenzie-roberts-978a91213)
+- 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img
+src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikenzieAlasca&theme=cobalt)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikenzieAlasca&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

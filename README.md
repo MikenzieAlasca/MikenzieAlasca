@@ -40,8 +40,8 @@ I am a current computer science student at the University of Wyoming.<img src="h
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mikenzie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikenzie-roberts-978a91213)
-- 
+- :mailbox:How to reach me: mikenzie.alasca.robe@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Mikenzie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikenzie-roberts-978a91213)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

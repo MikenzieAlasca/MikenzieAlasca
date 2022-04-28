@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MikenzieAlasca/MikenzieAlasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,18 @@ Here are some ideas to get you started:
   hello there
   <img src="https://media.giphy.com/media/x2GRI1mBm4kBXv0njJ/giphy.gif" width="30px"/>
 </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/3o6nVbpDfXbRv7D1wA/giphy.gif" width="600" height="300"/>
+  </div>
+</div>
+---
+
+### :woman_technologist: About Me :
+I am a current computer science student at the University of Wyoming.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :telescope: I’m currently finishing my first year at the University of Wyoming studying Computer Sciences.
+
+- :seedling: Exploring new languages.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mikenzie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikenzie-roberts-978a91213)

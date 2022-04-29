@@ -57,7 +57,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikenzieAlasca&theme=cobalt)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikenzieAlasca&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
+<!--
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+-->

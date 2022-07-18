@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am a current computer science student at the University of Wyoming.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m currently finishing my first year at the University of Wyoming studying Computer Sciences.
+- :telescope: I’m just about to begin my second year at the University of Wyoming studying Computer Sciences.
 
 - :seedling: Exploring new languages.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: mikenzie.alasca.robe@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Mikenzie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikenzie-roberts-978a91213)
 
